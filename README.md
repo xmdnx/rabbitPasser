@@ -1,15 +1,3 @@
-# win11bypasser
-Magic Batch file that edits registry for win 11 update.
-
-1. Download win11bypasser.bat from releases.
-2. Run it.
-3. Grant admin permissions.
-4. It will show all errors that can be. (key alredy exists is not error)
-5. Reboot.
-6. Run setup.exe from Windows 11 ISO.
-
-## What can bypass this bat?
-1. CPU
-2. RAM
-3. TPM
-4. Secure Boot
+![Desktop - 1](https://user-images.githubusercontent.com/72883689/202904932-e9e1e873-9b6a-4ed3-928e-7df91b0b229c.png)
+![Desktop - 2](https://user-images.githubusercontent.com/72883689/202904942-0abfc41e-bd55-496e-8750-4e1c5481cfc7.png)
+![Desktop - 3](https://user-images.githubusercontent.com/72883689/202904945-522ff4c7-d797-434a-a24e-c5f3da2ccc58.png)
